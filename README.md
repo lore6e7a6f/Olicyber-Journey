@@ -32,4 +32,9 @@ Within each category, you may find multiple challenge folders or standalone scri
 - Screenshots or videos:  visual guides of steps and outputs.
 - Reports & writeups: detailed explanations, often oriented toward learning or academic use.
 
+## Connect with me 
+
+- Gmail : lorenzo.totis90@gmail.com
+- Instagram : lorenzo.totis
+- Olicyber : https://training.olicyber.it/player/16514
 
