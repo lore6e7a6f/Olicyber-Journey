@@ -27,9 +27,9 @@ solves/                    # top-level folder containing categories
 
 Within each category, you may find multiple challenge folders or standalone scripts. Common file types include:
 
-Scripts & executables: *.py, *.exe, *.bat – used to automate exploitation or analysis.
-Data files: *.txt, *.bin – challenge inputs, intermediate data, or notes.
-Screenshots or videos:  visual guides of steps and outputs.
-Reports & writeups: detailed explanations, often oriented toward learning or academic use.
+- Scripts & executables: *.py, *.exe, *.bat – used to automate exploitation or analysis.
+- Data files: *.txt, *.bin – challenge inputs, intermediate data, or notes.
+- Screenshots or videos:  visual guides of steps and outputs.
+- Reports & writeups: detailed explanations, often oriented toward learning or academic use.
 
 
