@@ -1,4 +1,4 @@
-# Olicyber Writeups
+# Olicyber Writeups & Solutions
 
 This repository collects solution scripts and supporting notes for Olicyber cybersecurity challenges. 
 
