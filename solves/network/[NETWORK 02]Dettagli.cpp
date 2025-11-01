@@ -1,6 +1,4 @@
 #include <iostream>
-#include <string>
-
 using namespace std;
 
 int main() {
@@ -8,4 +6,3 @@ int main() {
     string bytes = "63";
     cout << "flag{" << mac << "/" << bytes << "}";
     return 0;
-}

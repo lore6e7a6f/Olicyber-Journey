@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 void flag(string dati) {
@@ -21,7 +20,7 @@ int main() {
 
     // filtrare con ip.src=192.168.100.3 && dns
 
-    string dati = "···  ·      *flag{L3aRn1N9_4b0uT_F1lter5_1P_DN5_f1lt3r} · ·";
+    string dati = "Â·Â·Â·  Â·      *flag{L3aRn1N9_4b0uT_F1lter5_1P_DN5_f1lt3r} Â· Â·";
     flag(dati);
     return 0;
 }
