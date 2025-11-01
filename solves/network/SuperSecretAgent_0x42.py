@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def xor(a, b):
     assert type(a) == bytes
     assert type(a) == type(b)
