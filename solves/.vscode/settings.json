@@ -3,5 +3,9 @@
         "xstring": "cpp",
         "istream": "cpp",
         "iosfwd": "cpp"
-    }
+    },
+
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    "python.analysis.extraPaths": ["./.venv/lib/python3.13/site-packages"]
 }
+  
