@@ -19,6 +19,4 @@ d = pow(e, -1, phi_n)
 
 #flag = ciphertext^d mod n
 flag_long = pow(ciphertext, d, n)
-
-flag_bytes = long_to_bytes(flag_long)
-print(flag_bytes) 
+print(long_to_bytes(flag_long))
